@@ -1,3 +1,5 @@
+Modify this theme from _s to starter1 theme. (wordpress)
+
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
 _s
